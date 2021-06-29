@@ -1,0 +1,17 @@
+name: 'GEO13-LAB01-SITE'
+output_dir: "."
+navbar:
+  title: "Fernando's First Website"
+  left:
+    - text: "Home"
+      Icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      Icon: fa-archive
+      href: geog13.html
+  right:
+    - icon: fa-github
+      href: https://github.com/fmeza2019
+output:
+  html_document:
+    theme: "journal"
