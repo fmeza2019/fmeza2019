@@ -1,0 +1,11 @@
+---
+title: "About Me" 
+---
+
+<center>
+# Hi, I'm Fernando Meza. 
+</center>
+
+I am a 3rd year Geography major with an emphasis in Geographical Information Systems. With this major I intend to contribute towards projects that support the creation of knowledge through statistics and analysis done with maps created. My interests include bike riding, going to the beach, and being apart of AS Bike Committee as a project manager. You can contact me at fmeza@ucsb.edu. 
+![description](img/IMG_1183s.jpg)
+

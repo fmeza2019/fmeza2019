@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+In the summer 2021, I took a GIS course based in R. I learned how to write code, understand the meaning behind what I did and the importance it has in the field. There were some date science activities that I did and below there is a collection of links to this work. 
+
+## [Building a project website](https://github.com/fmeza2019/fmeza2019)
+
+- In this activity I learned to create a user site with Github Pages.
+- Used Rstudio to link and create this site. 
+- Created and organized project files.
+- Wrote code to construct website pages.
+- Personalized website appearance and style.
